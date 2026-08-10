@@ -22,7 +22,7 @@ export function About() {
           </div>
           <div className="fact">
             <div className="k">{t("fact2_k")}</div>
-            <div className="v">Ingénieur ENSIM</div>
+            <div className="v">{t("eyebrow_role")}</div>
           </div>
           <div className="fact">
             <div className="k">{t("fact3_k")}</div>
