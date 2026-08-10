@@ -7,7 +7,7 @@ export function Hero() {
     <section className="hero" id="top">
       <div className="wrap hero-grid">
         <div>
-          <div className="eyebrow">AI Software Engineer</div>
+          <div className="eyebrow">{t('eyebrow_role')}</div>
           <h1 className="name">
             Carel Lihoula
             <br />

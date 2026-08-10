@@ -7,6 +7,7 @@ export const translations = {
   nav_projects: { fr: 'Projets', en: 'Projects' },
   nav_skills: { fr: 'Compétences', en: 'Skills' },
   nav_contact: { fr: 'Contact', en: 'Contact' },
+  eyebrow_role: { fr: 'Ingénieur IA', en: 'AI Software Engineer' },
   hero_role: {
     fr: 'fine-tuning · rag · <span>agents ia</span> · automatisation · cloud',
     en: 'fine-tuning · rag · <span>ai agents</span> · automation · cloud',
