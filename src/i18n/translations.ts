@@ -1,0 +1,133 @@
+export type Lang = 'fr' | 'en'
+
+export const translations = {
+  page_title: { fr: 'Carel Lihoula Ntsoumou — AI Software Engineer', en: 'Carel Lihoula Ntsoumou — AI Software Engineer' },
+  nav_about: { fr: 'À propos', en: 'About' },
+  nav_exp: { fr: 'Expérience', en: 'Experience' },
+  nav_projects: { fr: 'Projets', en: 'Projects' },
+  nav_skills: { fr: 'Compétences', en: 'Skills' },
+  nav_contact: { fr: 'Contact', en: 'Contact' },
+  hero_role: {
+    fr: 'fine-tuning · rag · <span>agents ia</span> · automatisation · cloud',
+    en: 'fine-tuning · rag · <span>ai agents</span> · automation · cloud',
+  },
+  hero_pitch: {
+    fr: "AI software engineer, avec la rigueur d'ingénierie logicielle en socle. Je conçois des <strong>agents IA</strong> et des <strong>pipelines d'automatisation</strong> qui exploitent les modèles existants pour résoudre des problèmes métiers concrets — du prototype au déploiement cloud.",
+    en: 'AI software engineer, grounded in solid software engineering practice. I build <strong>AI agents</strong> and <strong>automation pipelines</strong> that put existing models to work on real business problems — from prototype to cloud deployment.',
+  },
+  cta_contact: { fr: 'Me contacter', en: 'Get in touch' },
+  cta_github: { fr: 'Voir le GitHub', en: 'View GitHub' },
+  meta_location: { fr: 'France — mobilité nationale', en: 'France — nationwide mobility' },
+  meta_lang: { fr: 'Anglais professionnel', en: 'Professional English' },
+  meta_available: { fr: 'Disponible pour échanger', en: 'Open to a chat' },
+  node_agents: { fr: 'AGENTS IA', en: 'AI AGENTS' },
+  node_deploy: { fr: 'DÉPLOIEMENT', en: 'DEPLOYMENT' },
+  about_title: { fr: 'À propos', en: 'About' },
+  about_index: { fr: '01 / profil', en: '01 / profile' },
+  about_body: {
+    fr: "J'interviens sur l'intégration et l'adaptation de modèles IA : <strong>fine-tuning</strong>, <strong>RAG</strong>, <strong>agents intelligents</strong>, automatisation de workflows et déploiement cloud. Curieux et rigoureux, j'aime concevoir des solutions concrètes qui exploitent les modèles existants pour résoudre des problèmes réels — plutôt que de réinventer la roue à chaque projet.",
+    en: 'I work on integrating and adapting AI models: <strong>fine-tuning</strong>, <strong>RAG</strong>, <strong>intelligent agents</strong>, workflow automation and cloud deployment. Curious and rigorous, I like designing concrete solutions that put existing models to work on real problems — rather than reinventing the wheel on every project.',
+  },
+  fact1_k: { fr: 'Poste actuel', en: 'Current role' },
+  fact2_k: { fr: 'Formation', en: 'Education' },
+  fact3_k: { fr: 'Terrain', en: 'Based in' },
+  fact3_v: { fr: 'France · à distance', en: 'France · remote' },
+  exp_title: { fr: 'Expérience', en: 'Experience' },
+  d1_date: { fr: 'juin 2026 — présent', en: 'June 2026 — present' },
+  d1_loc: { fr: 'Financière des Paiements Électroniques · Nantes, France', en: 'Financière des Paiements Électroniques · Nantes, France' },
+  d1_l1: {
+    fr: "Conception et développement d'agents IA pour l'automatisation des processus opérationnels de l'équipe Architecture",
+    en: 'Designing and building AI agents to automate operational processes for the Architecture team',
+  },
+  d1_l2: {
+    fr: "Conception d'IA Skills et d'agents intelligents pour guider et assister les équipes métiers au quotidien",
+    en: 'Designing AI Skills and intelligent agents to guide and support business teams day to day',
+  },
+  tag_agents: { fr: 'Agents IA', en: 'AI Agents' },
+  tag_auto: { fr: 'Automatisation', en: 'Automation' },
+  d2_role: { fr: 'Stagiaire Ingénieur Logiciel', en: 'Software Engineer Intern' },
+  d2_date: { fr: 'mars — sept. 2025', en: 'March — Sept 2025' },
+  d2_loc: {
+    fr: 'Institut national de recherche en informatique et en automatique · Rennes, France',
+    en: 'French National Institute for Research in Digital Science and Technology · Rennes, France',
+  },
+  d2_l1: {
+    fr: "Participation au projet de recherche BioImageIT, axé sur le traitement d'images biologiques",
+    en: 'Contributed to the BioImageIT research project, focused on biological image processing',
+  },
+  d2_l2: {
+    fr: "Conception et implémentation d'une application desktop pour l'exécution et le suivi de workflows scientifiques",
+    en: 'Designed and built a desktop application for running and tracking scientific workflows',
+  },
+  d2_l3: {
+    fr: "Automatisation du monitoring et de l'analyse de pipelines d'images complexes",
+    en: 'Automated the monitoring and analysis of complex image-processing pipelines',
+  },
+  tag_research: { fr: 'Recherche', en: 'Research' },
+  d3_role: { fr: 'Stagiaire Ingénieur IA', en: 'AI Engineer Intern' },
+  d3_date: { fr: 'oct. 2025 — avr. 2026', en: 'Oct 2025 — Apr 2026' },
+  d3_loc: { fr: "Expérience à l'étranger · Brazzaville", en: 'International experience · Brazzaville' },
+  d3_l1: {
+    fr: "Développement de solutions d'intelligence artificielle appliquées au domaine éducatif",
+    en: 'Developed AI solutions applied to education',
+  },
+  d3_l2: {
+    fr: "Conception et intégration d'agents IA pour l'automatisation de processus pédagogiques",
+    en: 'Designed and integrated AI agents to automate pedagogical processes',
+  },
+  d3_l3: {
+    fr: "Déploiement et maintenance d'outils IA en environnement réel",
+    en: 'Deployed and maintained AI tools in a live environment',
+  },
+  tag_agents2: { fr: 'Agents IA', en: 'AI Agents' },
+  tag_deploy: { fr: 'Déploiement', en: 'Deployment' },
+  d4_role: { fr: 'Développeur Python — alternance', en: 'Python Developer — work-study' },
+  d4_date: { fr: 'sept. 2020 — août 2022', en: 'Sept 2020 — Aug 2022' },
+  d4_loc: { fr: 'Villeparisis, France · 2 ans', en: 'Villeparisis, France · 2 years' },
+  d4_l1: {
+    fr: "Conception et intégration d'API REST pour les besoins métiers internes",
+    en: 'Designed and integrated REST APIs for internal business needs',
+  },
+  d4_l2: {
+    fr: "Développement d'outils internes pour automatiser des processus opérationnels",
+    en: 'Built internal tools to automate operational processes',
+  },
+  tag_internal: { fr: 'Outils internes', en: 'Internal tools' },
+  proj_title: { fr: 'Projets personnels', en: 'Personal projects' },
+  p1_desc: {
+    fr: "Assistant CLI intelligent : génération automatique de commandes shell via IA (Gemini, OpenAI, Anthropic, DeepSeek). Interface interactive avec Rich et Questionary, configuration multi-modèles. Publié sur PyPI.",
+    en: 'Intelligent CLI assistant: automatic shell command generation via AI (Gemini, OpenAI, Anthropic, DeepSeek). Interactive interface with Rich and Questionary, multi-model configuration. Published on PyPI.',
+  },
+  p2_desc: {
+    fr: "Agent de recherche d'emploi de bout en bout : parsing de CV (PDF/OCR), recherche automatique d'offres via agents IA, scoring et matching profil/offre, génération de CV et lettres de motivation personnalisés.",
+    en: 'End-to-end job search agent: resume parsing (PDF/OCR), automated job search via AI agents, profile/offer scoring and matching, and personalized resume and cover letter generation.',
+  },
+  tag_agents3: { fr: 'Agents IA', en: 'AI Agents' },
+  p3_desc: {
+    fr: 'Système de questions-réponses basé sur le RAG : indexation de documents dans une base vectorielle, récupération sémantique du contexte pertinent et génération de réponses précises par un LLM, avec citation des sources.',
+    en: 'Retrieval-Augmented Generation Q&A system: document indexing in a vector database, semantic retrieval of the relevant context, and precise LLM-generated answers with source citations.',
+  },
+  skills_title: { fr: 'Compétences techniques', en: 'Technical skills' },
+  skill_lang: { fr: 'Langages', en: 'Languages' },
+  skill_db: { fr: 'Bases de données', en: 'Databases' },
+  edu_title: { fr: 'Formation', en: 'Education' },
+  edu_index: { fr: '05 / origine', en: '05 / origin' },
+  e1_title: { fr: "Diplôme d'ingénieur en Informatique", en: 'Engineering Degree in Computer Science' },
+  e1_spec: { fr: 'Spécialisation : IA, développement logiciel, interfaces utilisateurs', en: 'Specialization: AI, software development, user interfaces' },
+  e2_title: { fr: 'BTS Services Informatiques aux Organisations', en: 'Advanced Technician Diploma — IT for Organizations (BTS SIO)' },
+  e2_spec: { fr: 'Spécialisation : Solutions logicielles et applications métiers', en: 'Specialization: Software solutions and business applications' },
+  contact_title: {
+    fr: 'Discutons de votre <span class="accent">prochain agent IA</span>.',
+    en: "Let's talk about your <span class=\"accent\">next AI agent</span>.",
+  },
+  contact_sub: {
+    fr: "Ouvert aux échanges autour de l'IA appliquée, des agents et de l'automatisation de workflows.",
+    en: 'Open to conversations about applied AI, agents, and workflow automation.',
+  },
+  foot_note: {
+    fr: '© 2026 Carel Lihoula Ntsoumou — France, mobilité nationale',
+    en: '© 2026 Carel Lihoula Ntsoumou — France, nationwide mobility',
+  },
+} satisfies Record<string, Record<Lang, string>>
+
+export type TranslationKey = keyof typeof translations
