@@ -16,7 +16,7 @@ export function Projects() {
           <div className="proj">
             <div className="proj-head">
               <span className="proj-title">Canoaicli</span>
-              <a className="proj-arrow" href="https://github.com/carellihoula/canoaicli" target="_blank" rel="noopener">
+              <a className="proj-arrow" href="https://pypi.org/project/canoaicli/" target="_blank" rel="noopener">
                 <FiArrowUpRight />
               </a>
             </div>
@@ -30,7 +30,7 @@ export function Projects() {
           <div className="proj">
             <div className="proj-head">
               <span className="proj-title">AI Job Assistant</span>
-              <a className="proj-arrow" href="https://github.com/carellihoula/ai-job-assistant" target="_blank" rel="noopener">
+              <a className="proj-arrow" href="https://github.com/carellihoula/AIJobAssistant" target="_blank" rel="noopener">
                 <FiArrowUpRight />
               </a>
             </div>
