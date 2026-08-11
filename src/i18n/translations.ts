@@ -126,8 +126,8 @@ export const translations = {
     en: 'Open to conversations about applied AI, agents, and workflow automation.',
   },
   foot_note: {
-    fr: '© 2026 Carel Lihoula Ntsoumou — France, mobilité nationale',
-    en: '© 2026 Carel Lihoula Ntsoumou — France, nationwide mobility',
+    fr: '© 2026 Carel Lihoula Ntsoumou — France',
+    en: '© 2026 Carel Lihoula Ntsoumou — France',
   },
 } satisfies Record<string, Record<Lang, string>>
 
