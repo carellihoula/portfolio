@@ -65,7 +65,8 @@ export function Projects() {
             </div>
             <p className="proj-desc">{t("p3_desc")}</p>
             <div className="tags">
-              <span className="tag">RAG</span>
+              <span className="tag">SaaS</span>
+              <span className="tag">Multi-source</span>
               <span className="tag">Vector DB</span>
               <span className="tag">LLM</span>
             </div>

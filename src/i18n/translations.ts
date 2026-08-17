@@ -105,8 +105,8 @@ export const translations = {
   },
   tag_agents3: { fr: 'Agents IA', en: 'AI Agents' },
   p3_desc: {
-    fr: 'Système de questions-réponses basé sur le RAG : indexation de documents dans une base vectorielle, récupération sémantique du contexte pertinent et génération de réponses précises par un LLM, avec citation des sources.',
-    en: 'Retrieval-Augmented Generation Q&A system: document indexing in a vector database, semantic retrieval of the relevant context, and precise LLM-generated answers with source citations.',
+    fr: "SaaS de knowledge bases basées sur le RAG : ingestion multi-formats (PDF, XLSX, ODS, CSV, Markdown, HTML, scraping web), indexation vectorielle et interrogation simultanée de plusieurs documents au sein d'une même base de connaissances, avec réponses générées par LLM et citation des sources.",
+    en: 'SaaS for building RAG-powered knowledge bases: multi-format ingestion (PDF, XLSX, ODS, CSV, Markdown, HTML, web scraping), vector indexing, and simultaneous querying across multiple documents within a single knowledge base, with LLM-generated answers and source citations.',
   },
   skills_title: { fr: 'Compétences techniques', en: 'Technical skills' },
   skill_lang: { fr: 'Langages', en: 'Languages' },
