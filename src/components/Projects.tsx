@@ -37,7 +37,7 @@ export function Projects() {
               <span className="proj-title">AI Job Assistant</span>
               <a
                 className="proj-arrow"
-                href="https://github.com/carellihoula/AIJobAssistant"
+                href="https://aij-finder.duckdns.org"
                 target="_blank"
                 rel="noopener"
               >
