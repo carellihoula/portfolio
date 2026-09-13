@@ -46,7 +46,7 @@ export const translations = {
   },
   tag_agents: { fr: 'Agents IA', en: 'AI Agents' },
   tag_auto: { fr: 'Automatisation', en: 'Automation' },
-  d2_role: { fr: 'Stagiaire Ingénieur Logiciel', en: 'Software Engineer Intern' },
+  d2_role: { fr: 'Ingénieur Logiciel', en: 'Software Engineer' },
   d2_date: { fr: 'mars — sept. 2025', en: 'March — Sept 2025' },
   d2_loc: {
     fr: 'Institut national de recherche en informatique et en automatique · Rennes, France',
@@ -65,7 +65,7 @@ export const translations = {
     en: 'Automated the monitoring and analysis of complex image-processing pipelines',
   },
   tag_research: { fr: 'Recherche', en: 'Research' },
-  d3_role: { fr: 'Stagiaire Ingénieur IA', en: 'AI Engineer Intern' },
+  d3_role: { fr: 'Ingénieur IA', en: 'AI Engineer' },
   d3_date: { fr: 'oct. 2025 — avr. 2026', en: 'Oct 2025 — Apr 2026' },
   d3_loc: { fr: "Expérience à l'étranger · Brazzaville", en: 'International experience · Brazzaville' },
   d3_l1: {
@@ -82,7 +82,7 @@ export const translations = {
   },
   tag_agents2: { fr: 'Agents IA', en: 'AI Agents' },
   tag_deploy: { fr: 'Déploiement', en: 'Deployment' },
-  d4_role: { fr: 'Développeur Python — alternance', en: 'Python Developer — work-study' },
+  d4_role: { fr: 'Développeur Python', en: 'Python Developer' },
   d4_date: { fr: 'sept. 2020 — août 2022', en: 'Sept 2020 — Aug 2022' },
   d4_loc: { fr: 'Villeparisis, France · 2 ans', en: 'Villeparisis, France · 2 years' },
   d4_l1: {
